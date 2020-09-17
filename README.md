@@ -1,11 +1,10 @@
 ### Hi there 🦄
 
 - 🔭 Working on Angular, Python, C and .NET
-- 🚀 Good with backend dev
+- 🚀 Good with backend dev and databases
 - 🪁 Enthusiastic about frontend
 - 🤔 Contemplating 24x7
 - 🌱 Always Growing
-- ⚽ Love watching football
 
 <!--
 **aliabidzaidi/aliabidzaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
