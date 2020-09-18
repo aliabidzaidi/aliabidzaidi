@@ -1,21 +1,22 @@
-### Hi there 🦄
+<h3 align="center"> 
+  Good with Backend and Databases, Enthusiastic about Frontend
+</h3>
 
-- 🔭 Working on Angular, Python, C and .NET
-- 🚀 Good with backend dev and databases
-- 🪁 Enthusiastic about frontend
-- 🤔 Contemplating 24x7
-- 🌱 Always Growing
+<p align="center">
+<img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="150px">
+</p>
 
-<!--
-**aliabidzaidi/aliabidzaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong> Frontend: </strong> <i> Angular, Typescript, Javascript, HTML, CSS/SCSS</i>
+</p>
+<p align="center">
+  <strong> Backend: </strong> <i> Python, .NET, C#, C, NodeJS</i>
+</p>
+<p align="center">
+  <strong> Databases: </strong> <i> Oracle, SQL Server, MYSQL, MongoDB, Redis</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong> 🌱 Always Growing </i>
+</p>
